@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kr-ayush
-- 👀 I’m interested in Computer Network and Network Security
+- 👀 I’m interested in Data Science and Competitive Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learnining
 
